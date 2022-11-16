@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dafddd64-638a-424b-adbc-93d04fc7444b" name="Changes" comment="Donjon!">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/donjon-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_OLD/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/game.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Bags/Bag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Characters/Character.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Characters/Specialities/Mage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Characters/Specialities/Rogue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Characters/Specialities/Warrior.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Consumables/Consumable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Consumables/Food.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Consumables/Potion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Shields/Shield.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Axe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Bow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Dagger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Fist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Hammer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Spear.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Staff.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Sword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Wand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Weapons/Weapon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Items/Wearables/Armors/Armor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/World.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2Ha5KzhxKG9JkdYKNK34B50PKmH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dafddd64-638a-424b-adbc-93d04fc7444b" name="Changes" comment="" />
+      <created>1668510296296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668510296296</updated>
+      <workItem from="1668510307818" duration="18000" />
+      <workItem from="1668510400991" duration="3699000" />
+      <workItem from="1668526491463" duration="16591000" />
+    </task>
+    <task id="LOCAL-00001" summary="Donjon!">
+      <created>1668587417017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668587417017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Donjon!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Donjon!" />
+  </component>
+</project>
